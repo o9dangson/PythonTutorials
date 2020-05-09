@@ -1,7 +1,13 @@
 # PythonTutorials
-Repository for learning Python. Code included with have basic functionality and help track learning progress.
-Also useful to help refresh basics.
+# Author: Andrew V. Dang
+Repository for learning Python. Cheatsheet file will have condensed code for learning and review basic Python fundamentals and meaningful comments to assist learning process. The file itself is a `.py` file capable of being run so that users can confirm and test their own `print` statements.
 
-Python Cheatsheet file included for quick review.
+# Requirement(s)
+python 3.8.2
 
-Reference used: programiz.com
+# Notes
+In order to insure the file runs correctly, please be sure to include `constant.py` in the same directory as `cheatsheet.py` when run.
+
+# References
+programiz.com
+tutorialspoint.com
